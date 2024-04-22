@@ -1,0 +1,50 @@
+{
+  "name": "gulp-tinify",
+  "version": "1.0.3",
+  "description": "Minify PNG, JPEG, and WEBP images via TinyPNG's API",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaogabrielchelena/gulp-tinify.git"
+  },
+  "author": "João Gabriel Cardoso Helena <joaogabrielchelena@gmail.com>",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "gulpplugin",
+    "tinypng",
+    "tinify",
+    "image",
+    "img",
+    "picture",
+    "photo",
+    "graphic",
+    "minify",
+    "minifier",
+    "optimize",
+    "optimizer",
+    "compress",
+    "png",
+    "jpg",
+    "jpeg"
+  ],
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "path": "^0.12.7",
+    "through2-concurrent": "^1.1.0",
+    "tinify": "^1.1.1"
+  },
+  "devDependencies": {},
+  "bugs": {
+    "url": "https://github.com/joaogabrielchelena/gulp-tinify/issues"
+  },
+  "homepage": "https://github.com/joaogabrielchelena/gulp-tinify#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
