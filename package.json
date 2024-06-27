@@ -1,6 +1,6 @@
 {
   "name": "gulptinify",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Minify PNG, JPEG, and WEBP images via TinyPNG's API",
   "license": "MIT",
   "repository": {
